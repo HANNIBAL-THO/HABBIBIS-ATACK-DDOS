@@ -1,11 +1,21 @@
+<p align="center">
+  <img src="assets/logo.png" alt="THO DDOS TOOL" width="200"/>
+</p>
+
 # 🚀 THO DDOS ATTACK TOOL
 
-[![Discord](https://img.shields.io/discord/123456789?color=7289da&label=Discord&logo=discord&logoColor=ffffff)](https://discord.gg/4svwzsy3UP)
+[![Discord](https://img.shields.io/badge/Discord-Únete_al_servidor-7289da?style=flat&logo=discord&logoColor=white)](https://discord.gg/YOUR-VALID-INVITE)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](TU_LINK_DE_YOUTUBE)
 
 Una herramienta de DDoS con interfaz gráfica que incluye múltiples métodos de ataque y bypass.
 
 ![Preview](assets/preview.png)
+
+## 🎥 Demostración
+
+<p align="center">
+  <img src="assets/demo.gif" alt="THO DDOS Demo" width="600"/>
+</p>
 
 ## ⚡ Características
 
