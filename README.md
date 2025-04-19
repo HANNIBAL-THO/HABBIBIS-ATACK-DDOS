@@ -2,7 +2,7 @@
   <img src="assets/logo.png" alt="THO DDOS TOOL" width="200"/>
 </p>
 
-# 🚀 THO HABIBIS DDOS ATACK TOOL
+# 🚀 THO HABIBIS DDOS ATTACK TOOL
 
 [![Discord](https://img.shields.io/badge/Discord-Únete_al_servidor-7289da?style=flat&logo=discord&logoColor=white)](https://discord.gg/4svwzsy3UP)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](TU_LINK_DE_YOUTUBE)
