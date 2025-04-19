@@ -40,7 +40,7 @@ Una herramienta de DDoS con interfaz gráfica que incluye múltiples métodos de
 1. Clonar el repositorio o descargar como ZIP:
 ```bash
 git clone https://github.com/HANNIBAL-THO/HABIBIS-DDOS-ATTACK.git
-cd THO_PANEL_DDOS
+cd HABIBIS-DDOS-ATTACK
 ```
 
 2. Instalar dependencias:
