@@ -24,6 +24,7 @@ Una herramienta de DDoS con interfaz gráfica que incluye múltiples métodos de
 - 🛡️ Bypass para Cloudflare y WAF
 - 🖥️ Interfaz gráfica moderna y interactiva
 - 📊 Consola de logs en tiempo real
+- 🚀 Maximo de paquetes 1000
 
 ## 📥 Instalación
 
