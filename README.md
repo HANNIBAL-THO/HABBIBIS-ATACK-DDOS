@@ -12,7 +12,7 @@ Una herramienta de DDoS con interfaz gráfica que incluye múltiples métodos de
 - 🎯 6 métodos diferentes de ataque
 - 🔄 Rotación automática de proxies
 - 🛡️ Bypass para Cloudflare y WAF
-- 🖥️ Interfaz gráfica moderna
+- 🖥️ Interfaz gráfica moderna y interactiva
 - 📊 Consola de logs en tiempo real
 
 ## 📥 Instalación
@@ -20,8 +20,8 @@ Una herramienta de DDoS con interfaz gráfica que incluye múltiples métodos de
 ### Requisitos previos
 
 ```bash
-# Instalar Python 3.8 o superior
-# Instalar Git (opcional)
+ Instalar Python 3.8 o superior
+ Instalar Git (opcional)
 ```
 
 ### Pasos de instalación
@@ -89,14 +89,6 @@ pyside6
 requests
 urllib3
 ```
-
-## 🤝 Contribuir
-
-1. Fork el proyecto
-2. Crea tu rama de característica (`git checkout -b feature/AmazingFeature`)
-3. Commit tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abre un Pull Request
 
 ## 📜 Licencia
 
