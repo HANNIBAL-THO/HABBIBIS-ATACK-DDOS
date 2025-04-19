@@ -1,0 +1,134 @@
+#glassContainer {
+    background-color: rgba(0, 0, 0, 0.1);
+    border-radius: 15px;
+    border: 2px solid rgba(46, 204, 113, 0.8);
+    animation: fadeIn 1s ease-in;
+}
+
+#mainTitle {
+    color: rgba(0, 255, 0, 0.9);
+    font-size: 24px;
+    font-weight: bold;
+    font-family: 'Arial Black';
+    margin: 10px;
+}
+
+#subtitle {
+    color: rgba(0, 255, 0, 0.9);
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+#discordContainer {
+    background-color: transparent;
+    border-radius: 10px;
+    border: 1px solid #2ecc71;
+    padding: 5px;
+}
+
+QLabel {
+    color: rgba(0, 255, 0, 0.9);
+    font-weight: bold;
+}
+
+QWidget {
+    background-color: transparent;
+}
+
+QLineEdit {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(46, 204, 113, 0.8);
+    color: #2ecc71;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+QLineEdit:focus {
+    background-color: rgba(46, 204, 113, 0.1);
+}
+
+QTextEdit {
+    background-color: rgba(40, 40, 40, 0.3);
+    color: #2ecc71;
+    border: 2px solid rgba(46, 204, 113, 0.8);
+    border-radius: 8px;
+    font-family: 'Consolas';
+    font-size: 13px;
+    padding: 10px;
+}
+
+QPushButton {
+    background-color: rgba(0, 0, 0, 0.1);
+    color: #2ecc71;
+    border: 2px solid rgba(46, 204, 113, 0.8);
+    padding: 12px 20px;
+    border-radius: 8px;
+    font-weight: bold;
+}
+
+QPushButton:hover {
+    background-color: rgba(46, 204, 113, 0.2);
+}
+
+QPushButton#discordButton {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(88, 101, 242, 0.8);
+    color: #5865F2;
+    font-size: 13px;
+}
+
+QPushButton#discordButton:hover {
+    background-color: rgba(88, 101, 242, 0.2);
+}
+
+QPushButton#stop {
+    background-color: rgba(0, 0, 0, 0.1);
+    border: 2px solid rgba(231, 76, 60, 0.8);
+    color: #e74c3c;
+}
+
+QPushButton#stop:hover {
+    background-color: rgba(231, 76, 60, 0.2);
+}
+
+#closeButton {
+    background-color: transparent;
+    border: none;
+    color: #2ecc71;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 16px;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+#closeButton:hover {
+    background-color: rgba(231, 76, 60, 0.2);
+    color: #e74c3c;
+}
+
+#minimizeButton {
+    background-color: transparent;
+    border: none;
+    color: #2ecc71;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 16px;
+    max-width: 30px;
+    max-height: 30px;
+}
+
+#minimizeButton:hover {
+    background-color: rgba(46, 204, 113, 0.2);
+    color: #2ecc71;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
