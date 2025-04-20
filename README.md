@@ -5,7 +5,7 @@
 # 🚀 THO HABIBIS DDOS ATTACK TOOL
 
 [![Discord](https://img.shields.io/badge/Discord-Únete_al_servidor-7289da?style=flat&logo=discord&logoColor=white)](https://discord.gg/4svwzsy3UP)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](TU_LINK_DE_YOUTUBE)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=fb_-q2-teNA&ab_channel=TODOHACKOFFICIAL)
 
 Una herramienta de DDoS con interfaz gráfica que incluye múltiples métodos de ataque y bypass.
 
