@@ -91,7 +91,7 @@ Esta herramienta es solo para propósitos educativos. El mal uso puede ser ilega
 ## 🔗 Links
 
 - [Discord](https://discord.gg/4svwzsy3UP)
-- [YouTube](TU_LINK_DE_YOUTUBE)
+- [YouTube](https://www.youtube.com/watch?v=fb_-q2-teNA&ab_channel=TODOHACKOFFICIAL)
 
 ## 📝 Requisitos
 
